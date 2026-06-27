@@ -1,0 +1,6 @@
+{
+  "name": "Procedural Voxel Terrain",
+  "description": "A Minecraft-like procedural voxel engine with custom biomes, realistic mountains, caves, water, and trees in React and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
